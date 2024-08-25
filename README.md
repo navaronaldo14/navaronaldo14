@@ -23,4 +23,4 @@
  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcard.jacoblin.cool/)
+[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/thenava?theme=dark&font=Noto%20Sans%20Miao))](https://leetcard.jacoblin.cool/)
