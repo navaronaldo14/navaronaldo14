@@ -6,10 +6,10 @@
 - 👯 I’m looking to collaborate on ML/AI <br>
 - 🤔 I’m looking for help with Placements in FAANG <br>
 - 💬 Ask me about Tech <br>
-- 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navaneethan1400/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I
+- 📫 How to reach me : <br> 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navaneethan1400/) <br>
+- 😄 Pronouns: Techie <br>
+- ⚡ Fun fact: I <br>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> 
